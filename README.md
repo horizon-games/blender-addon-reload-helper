@@ -5,11 +5,11 @@ This addon helps make development of other addons simpler, by reloading addons w
 ## Installation ##
 1. Download or clone this repository
 2. Install the addon (https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
-3. Enable the addon titled "Scene: Addon Reload Helper"
+3. Enable the addon titled "System: Addon Reload Helper"
 
 ## Usage ##
 To reload all addons (brute force for now), either 
-* hit the button under Properties > Scene > Addon Reload Helper
+* Look in Properties > Scene > Addon Reload Helper and press the big button titled "Reload Addons"
 * Press (OSKey + Shift + R)
 
 ## Notes ##
